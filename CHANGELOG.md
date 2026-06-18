@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.2.10 - 2026-06-18
+
+- Updated TOC number to support patch 12.0.7.
+
 ## v1.2.9 - 2026-05-18
 
 - Updated Catch-Up trainer quest requirements for Midnight Mining and Skinning to include the same weekly quest IDs as v1.2.8 (including "It's Called Silvermoon" and "Essential Materials").

@@ -1,4 +1,4 @@
-## Interface: 120000, 120001
+## Interface: 120007
 ## Title: WeeklyKnowledge
 ## Notes: Track your profession knowledge across your characters
 ## Version: @project-version@
